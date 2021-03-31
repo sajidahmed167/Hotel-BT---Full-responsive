@@ -168,6 +168,8 @@ textarea {
         font-size: 40px;
     }
 
+    
+
     .grid3{
         display: grid;
         grid-template-columns: 1fr;
@@ -231,7 +233,8 @@ textarea {
     }
 
     #testimonials {
-        height: 115%;
+        max-height: 130%;
+        height: 100%;
         
     }
 
